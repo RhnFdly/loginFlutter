@@ -1,4 +1,4 @@
-# loginFlutter
+
 # Flutter Modern Login 
 
 Proyek ini adalah **aplikasi Flutter sederhana** yang menampilkan halaman login dengan tampilan gradient background, .
@@ -16,7 +16,7 @@ Proyek ini adalah **aplikasi Flutter sederhana** yang menampilkan halaman login 
 ## 🧠 **Teknologi yang Digunakan**
 - [Flutter](https://flutter.dev/) (versi 3.x)
 - [Dart](https://dart.dev/)
-- Material Design 3 (Material You)
+
 
 ---
 
